@@ -14,11 +14,10 @@ api_key = 'Token ' #Input token manually here
 
 ############## API / HEADER Info ###############
 
-nbox_api = f'https://nbox.url.here.com/api
+nbox_api = f'https://nbox.url.here.com/api'
 header = {
      'Content-Type': 'application/json',
-	 'Authorization': api_key
-}
+	 'Authorization': api_key }
 
 ##################################################
 ##################### Pings Function ############# 
