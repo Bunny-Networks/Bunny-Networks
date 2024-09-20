@@ -2,7 +2,7 @@
 
 
 
-user_input = input(f'Here is an input: ')
+user_input = input(f'Please Press 1: ')
 
 
 if user_input == "1":
