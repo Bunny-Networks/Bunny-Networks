@@ -7,7 +7,11 @@ def func1():
 def begin_ping(input1)
 
     ip = input1
+    update_whatever(ip)
 
-def update_whatever()
+def update_whatever(ip)
 
-    vrf = input2 ###
+    
+    Input2 = input2
+
+    data = { ip , input2 }
