@@ -1,17 +1,17 @@
 def func1():
+      
       input1 = input(f'ImpoortantInfo: ')
-      input2 = input (f'Im also important!: ')
 
-      being_ping(input1)
+      input2 = input(f'Im also important!: ')
 
-def begin_ping(input1)
+      begin_function2(input1)
 
-    ip = input1
-    update_whatever(ip)
+def begin_function2(ip):
 
-def update_whatever(ip)
+    NewIP = ip
 
-    
-    Input2 = input2
+    begin_function3(NewIP)
 
-    data = { ip , input2 }
+def begin_function3(Data):
+     print(Data)
+     print(input2)
