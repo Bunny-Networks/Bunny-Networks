@@ -3,5 +3,5 @@
 - 📫 How to reach me talu.whitley@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Jumped from planes and was Artillery for the U.S Army 
-                                     82nd All the Way
-                                    !!!! AIRBORNE !!!!
+-                        Until Valhala_82nd All the Way
+-                           !!!!! AIRBORNE !!!!!
