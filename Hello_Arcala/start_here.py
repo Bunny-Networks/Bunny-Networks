@@ -1,7 +1,3 @@
-
-
-
-
 user_input = input(f'Please Press 1: ')
 
 
